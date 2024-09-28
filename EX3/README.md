@@ -1,6 +1,7 @@
 # EX3 : Create a calculator application that performs basic arithmetic operations using React's state management.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://github.com/user-attachments/assets/0869003e-43b2-4226-ae7a-2a7705250420)
 
 ## Available Scripts
 
