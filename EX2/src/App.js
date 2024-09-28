@@ -1,20 +1,24 @@
 import React from 'react';
-import Profile from './components/Profile';
+import UserProfile from './UserProfile';
 
-const App = () => {
-  // Example user data
+function App() {
   const user = {
-    name: 'Karan',
-    email: 'karan@example.com',
-    bio: 'A software developer with a passion for learning and teaching.',
-    avatar: 'https://www.example.com/avatar.jpg' // Replace with a real image URL
+    name: 'John Doe',
+    email: 'john.doe@example.com',
+    bio: 'A passionate developer who loves building interactive and dynamic applications.',
+    profilePicture: 'https://via.placeholder.com/150'
   };
 
   return (
     <div className="App">
-      <Profile user={user} />
+      <UserProfile 
+        name={user.name}
+        email={user.email}
+        bio={user.bio}
+        profilePicture={user.profilePicture}
+      />
     </div>
   );
-};
+}
 
 export default App;
