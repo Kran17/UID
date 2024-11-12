@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Ecommerce site
+![image](https://github.com/user-attachments/assets/d033c15d-7be0-4519-b63c-a1f424570474)
+![image](https://github.com/user-attachments/assets/8f2faaea-6f60-402a-b91c-b23e7327ae91)
+![image](https://github.com/user-attachments/assets/b267f1df-0101-4276-a587-c40022e37494)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
