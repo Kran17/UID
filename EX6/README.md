@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+#  Create a form that allows users to add new items to a list. The form should include fields for the name, description and quantity of the item.
+
+
+![image](https://github.com/user-attachments/assets/20bd38ed-1e5f-4e05-87b7-c717a5ff4a85)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
