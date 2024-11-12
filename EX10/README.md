@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Build a user authentication system that allows users to sign up, log in, and log out.
+
+![image](https://github.com/user-attachments/assets/a8a29f7e-0dbd-4684-bfc8-7cd33b0251be)
+
+![image](https://github.com/user-attachments/assets/15f8c1e4-6553-495d-b2a1-a71f7f8be00b)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
