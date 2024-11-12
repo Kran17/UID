@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# WHEATHER APPLICATION
+
+![image](https://github.com/user-attachments/assets/c7dcd0a5-fdc6-4bcc-b99b-5b198887aa6e)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
